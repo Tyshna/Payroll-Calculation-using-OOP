@@ -1,7 +1,5 @@
 # Employee Payroll System
 
-This document provides detailed documentation for an object-oriented Python program designed to manage employee payroll, specifically for salaried employees.
-
 ## 1. Overview:
 
 The system simulates a basic employee payroll management system. It utilizes object-oriented programming (OOP) principles to model employees and their associated financial information. The system allows for:
